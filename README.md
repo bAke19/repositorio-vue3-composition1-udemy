@@ -1,1 +1,21 @@
-# repositorio-vue3-composition1-udemy
+# La pagina
+
+- [Preview Page](https://ejemplo-de-cargado.netlify.app/)
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
